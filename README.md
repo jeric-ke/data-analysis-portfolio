@@ -28,7 +28,7 @@ Survival probability was strongly influenced by gender and passenger class
 Fare distribution revealed clear economic segmentation across classes
 Project Link: [to come soon]
 
-# 2. [Water Sector / Revenue / Operations Project – Highly Recommended]
+# 2. Water Sector / Revenue / Operations Project
 Overview: Analysis of water consumption, billing, or distribution performance within a real operational environment.
 Approach: Data cleaning, trend analysis, and performance evaluation to identify inefficiencies and improvement opportunities.
 Tools: Python, Excel / SQL
